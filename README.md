@@ -1,1 +1,8 @@
-# PKK
+## PROJECT PKK
+Proyek akhir yang berjudul "Implementasi ANN untuk Mendeteksi Spam Message" bertujuan untuk mengaplikasikan Jaringan Saraf Tiruan (Artificial Neural Network/ANN) dalam melakukan deteksi pesan spam. Pesan spam merupakan pesan yang tidak diinginkan yang sering kali mengganggu pengalaman pengguna dan dapat menjadi ancaman keamanan.
+
+Dalam proyek ini, ANN akan digunakan sebagai alat untuk menganalisis dan mempelajari pola dari sekumpulan pesan teks. Proses ini akan melibatkan tahap pelatihan, di mana ANN akan diberikan kumpulan data pesan teks yang telah diklasifikasikan sebagai spam atau non-spam. ANN akan mengidentifikasi pola dan karakteristik dari pesan tersebut untuk mempelajari perbedaan antara pesan spam dan non-spam.
+
+Setelah tahap pelatihan selesai, ANN akan diuji dengan menggunakan kumpulan data uji yang belum pernah dilihat sebelumnya. ANN akan melakukan prediksi terhadap status spam atau non-spam dari setiap pesan dalam data uji. Hasil prediksi akan dievaluasi dengan menggunakan metrik evaluasi yang relevan, seperti akurasi, presisi, recall, dan F1-score, untuk mengukur kinerja sistem deteksi spam.
+
+Diharapkan bahwa implementasi ANN dalam proyek ini akan memberikan hasil yang memadai dalam mendeteksi pesan spam. Kemampuan ANN untuk mempelajari pola kompleks dan menyesuaikan diri dengan perubahan dalam data membuatnya menjadi pilihan yang potensial dalam menghadapi tantangan dalam deteksi spam yang semakin canggih. Proyek ini diharapkan dapat memberikan kontribusi dalam meningkatkan efisiensi dan keamanan komunikasi digital dengan mengurangi paparan terhadap pesan spam yang mengganggu.
